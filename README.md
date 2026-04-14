@@ -11,7 +11,7 @@ Enterprise-grade Linux server project demonstrating RHCSA-level skills.
 - System monitoring scripts
 
 ##  Tech Stack
-- RHEL 10 / Rocky Linux
+- RHEL 10 Linux
 - Bash scripting
 - systemd
 
